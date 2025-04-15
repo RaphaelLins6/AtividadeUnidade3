@@ -48,6 +48,34 @@ Você é um(a) **criptoanalista espacial** e interceptou uma série de mensagens
 
 ---
 
+## 🚀 Como Utilizar o Repositório ?
+
+Siga os passos abaixo para compilar e executar o projeto no seu computador:
+
+### 1. **Clone o repositório**
+
+```bash
+git clone https://github.com/RaphaelLins6/AtividadeUnidade3.git
+cd AtividadeUnidade3
+```
+Ou, simplesmente copie os arquivos .cs para uma pasta local.
+
+### 2. **Compile o código**
+Se estiver usando o .NET SDK:
+```bash
+dotnet new console -o AtividadeUnidade3
+cd AtividadeUnidade3
+```
+### 3. **Execute o programa**
+```bash
+dotnet run
+```
+### 4. **Digite as mensagens no console**
+Siga as instruções no terminal para inserir as mensagens codificadas.
+O programa exibirá a versão decifrada automaticamente.
+
+---
+
 ## 👥 Autores
 
 **Turma de ciência da computação - UDF**
