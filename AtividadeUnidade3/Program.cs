@@ -18,12 +18,12 @@ for (int i = 0; i < quantidade; i++)
 
 Console.WriteLine("Decodificando mensagens...\n");
 
-// Loop para cada mensagem codificada
+// 4 - Loop para cada mensagem codificada
 foreach (string codificada in mensagensCodificadas)
 {
     string decifrada = "";
 
-    // Loop para cada caractere da mensagem
+    //5 - Loop para cada caractere da mensagem
     for (int i = 0; i < codificada.Length; i++)
     {
         char c = codificada[i];
@@ -41,7 +41,7 @@ foreach (string codificada in mensagensCodificadas)
         // Números e símbolos são ignorados
     }
 
-    // Exibir os resultados
+    // 6 - Exibir os resultados
     Console.WriteLine($"Mensagem codificada: {codificada}");
     Console.WriteLine($"Mensagem decifrada : {decifrada}\n");
 }
