@@ -8,10 +8,10 @@ Consolidar e expandir o conhecimento sobre os loops `for` e `while` (adaptado aq
 
 ## 🧠 Cenário
 
-# Atividade 1 - Decifrando Mensagens Estelares com for
+## Atividade 1 - Decifrando Mensagens Estelares com for
 Você é um(a) **criptoanalista espacial** e interceptou uma série de mensagens codificadas vindas de diferentes planetas. Essas mensagens contêm letras **maiúsculas**, **minúsculas**, **números** e **símbolos**. Seu trabalho é **decifrá-las** para entender as intenções dos alienígenas.
 
-# Atividade 2 - Navegação Segura em um Campo de Asteroides com while
+## Atividade 2 - Navegação Segura em um Campo de Asteroides com while
 Você é um(a) piloto espacial e precisa navegar sua nave por um campo de asteroides perigoso. Você tem um sensor que detecta a distância do asteroide mais próximo.
 
 ---
@@ -29,7 +29,7 @@ Você é um(a) piloto espacial e precisa navegar sua nave por um campo de astero
 
 ### ✅ Etapas da atividade:
 
-# Atividade 1: Decifrando Mensagens Estrelares com for
+## Atividade 1: Decifrando Mensagens Estrelares com for
 1. Crie uma lista contendo pelo menos **3 mensagens codificadas** inseridas pelo usuário.
 2. Use um loop `for` para coletar essas mensagens via input.
 3. Em seguida, utilize outro loop `foreach` para percorrer cada mensagem e:
@@ -41,7 +41,7 @@ Você é um(a) piloto espacial e precisa navegar sua nave por um campo de astero
      - **Ignore números e símbolos**.
 4. Imprima a mensagem original e a mensagem decifrada.
    
-# Atividade 2: Navegação Segura em um campo de Asteroides com while
+## Atividade 2: Navegação Segura em um campo de Asteroides com while
 1. Dena uma distância inicial segura (um número inteiro positivo).
 2. Utilize um loop while para simular a navegação. O loop deve continuar enquanto a
 distância do asteroide mais próximo for menor que a distância segura.
