@@ -1,4 +1,4 @@
-# 🛰️ Decifrando Mensagens Estelares com C#
+# 🛰️ Aventura em uma Galáxia Distante
 
 ## 🚀 Objetivo
 
