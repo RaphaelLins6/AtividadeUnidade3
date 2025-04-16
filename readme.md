@@ -2,7 +2,7 @@
 
 ## 🚀 Objetivo
 
-Consolidar e expandir o conhecimento sobre os loops `for` e `while` (adaptado aqui para `for`) utilizando a linguagem **C#** e **Pyhton**, através de um desafio temático de decodificação de mensagens.
+Consolidar e expandir o conhecimento sobre os loops `for` e `while` (adaptado aqui para `for`) utilizando a linguagem **C#** e **Python**, através de um desafio temático de decodificação de mensagens.
 
 ---
 
