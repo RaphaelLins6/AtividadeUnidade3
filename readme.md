@@ -22,6 +22,7 @@ Você é um(a) piloto espacial e precisa navegar sua nave por um campo de astero
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="50" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Python" width="60" height="50"/> &nbsp;&nbsp; 
 
 ---
 

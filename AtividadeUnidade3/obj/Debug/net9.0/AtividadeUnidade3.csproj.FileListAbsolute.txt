@@ -12,3 +12,4 @@ C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividad
 C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\AtividadeUnidade3\AtividadeUnidade3\obj\Debug\net9.0\AtividadeUnidade3.pdb
 C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\AtividadeUnidade3\AtividadeUnidade3\obj\Debug\net9.0\AtividadeUnidade3.genruntimeconfig.cache
 C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\AtividadeUnidade3\AtividadeUnidade3\obj\Debug\net9.0\ref\AtividadeUnidade3.dll
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\AtividadeUnidade3\AtividadeUnidade3\obj\Debug\net9.0\AtividadeUnidade3.sourcelink.json
