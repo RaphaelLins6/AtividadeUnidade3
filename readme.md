@@ -93,7 +93,7 @@ cd AtividadeUnidade3
 ```
 ### 3. **Execute o programa**
 ```bash
-dotnet run
+dotnet run --project AtividadeUnidade3
 ```
 ### 4. **Digite as mensagens no console**
 Siga as instruções no terminal para inserir as mensagens codificadas.
