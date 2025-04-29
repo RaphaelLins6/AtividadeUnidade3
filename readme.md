@@ -2,7 +2,11 @@
 
 ## 🚀 Objetivo
 
-Consolidar e expandir o conhecimento sobre os loops `for` e `while` (adaptado aqui para `for`) utilizando a linguagem **C#** e **Python**, através de um desafio temático de decodificação de mensagens.
+Consolidar e expandir o conhecimento sobre os loops `for` e `while` utilizando as linguagens **C#** e **Python**, através de desafios temáticos que envolvem:
+
+- **Decifração de mensagens estelares** (Atividade 1): Manipulação de strings e loops para interpretar mensagens alienígenas.
+- **Navegação segura em um campo de asteroides** (Atividade 2): Simulação de cenários com loops `while` e geração de números aleatórios.
+- **Batalha espacial intergaláctica** (Atividade 3): Uso estratégico de loops `for` e `while` para gerenciar recursos e combater naves inimigas.
 
 ---
 
