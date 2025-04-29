@@ -67,24 +67,18 @@ distância do asteroide mais próximo for menor que a distância segura.
 ## Atividade 3: Batalha Espacial Intergaláctica com for e while
 1. Defina o número inicial de mísseis (um número inteiro positivo).
 2. Crie uma lista com os nomes de pelo menos 3 naves inimigas.
-3. Utilize um loop while para simular a batalha. O loop deve continuar enquanto você
-tiver mísseis E houver naves inimigas na lista.
+3. Utilize um loop `while` para simular a batalha. O loop deve continuar enquanto você tiver mísseis **e** houver naves inimigas na lista.
 4. Dentro do loop:
-○ Imprima o número de mísseis restantes e a lista de naves inimigas.
-○ Solicite ao usuário que escolha qual nave inimiga atacar (usando o índice da
-lista).
-○ Implemente tratamento de erros para garantir que o usuário digite um índice
-válido.
-○ Se o usuário digitar um índice inválido, exiba uma mensagem de erro e
-continue para a próxima iteração do loop usando continue.
-○ Se o usuário digitar um índice válido:
-■ Remova a nave inimiga da lista.
-■ Diminua o número de mísseis em 1.
-■ Imprima uma mensagem informando qual nave foi destruída.
-○ Se o número de mísseis chegar a zero, imprima uma mensagem de "Sem
-mísseis! Retirada estratégica!".
-○ Se todas as naves inimigas forem destruídas, imprima uma mensagem de
-"Vitória! Todas as naves inimigas foram destruídas!".
+   - Imprima o número de mísseis restantes e a lista de naves inimigas.
+   - Solicite ao usuário que escolha qual nave inimiga atacar (usando o índice da lista).
+   - Implemente tratamento de erros para garantir que o usuário digite um índice válido.
+   - Se o usuário digitar um índice inválido, exiba uma mensagem de erro e continue para a próxima iteração do loop usando `continue`.
+   - Se o usuário digitar um índice válido:
+     - Remova a nave inimiga da lista.
+     - Diminua o número de mísseis em 1.
+     - Imprima uma mensagem informando qual nave foi destruída.
+   - Se o número de mísseis chegar a zero, imprima uma mensagem de "Sem mísseis! Retirada estratégica!".
+   - Se todas as naves inimigas forem destruídas, imprima uma mensagem de "Vitória! Todas as naves inimigas foram destruídas!".
 
 ---
 
@@ -105,7 +99,7 @@ mísseis! Retirada estratégica!".
 Siga os passos abaixo para compilar e executar o projeto no seu computador:
 
 ### 1. **Clone o repositório**
-
+Se desejar decifrar as mensagens estrelares (Atividade 1)
 ```bash
 git clone https://github.com/RaphaelLins6/AtividadeUnidade3.git
 cd AtividadeUnidade3
@@ -127,11 +121,11 @@ Siga as instruções no terminal para inserir as mensagens codificadas.
 O programa exibirá a versão decifrada automaticamente.
 
 ### 5. **Execute o código Python**
-Se desejar rodar a simulação espacial (Atividade2)
+Se desejar rodar a simulação espacial (Atividade 2)
 ```bash
 python atividade2.py
 ```
-ou
+ou se desejar rodar a batalha Espacial Intergaláctica (Atividade 3)
 ```bash
 python atividade3.py
 ```
