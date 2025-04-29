@@ -12,7 +12,12 @@ Consolidar e expandir o conhecimento sobre os loops `for` e `while` (adaptado aq
 Você é um(a) **criptoanalista espacial** e interceptou uma série de mensagens codificadas vindas de diferentes planetas. Essas mensagens contêm letras **maiúsculas**, **minúsculas**, **números** e **símbolos**. Seu trabalho é **decifrá-las** para entender as intenções dos alienígenas.
 
 ## Atividade 2 - Navegação Segura em um Campo de Asteroides com while
-Você é um(a) piloto espacial e precisa navegar sua nave por um campo de asteroides perigoso. Você tem um sensor que detecta a distância do asteroide mais próximo.
+Você é um(a) **piloto espacial** e precisa navegar sua nave por um campo de asteroides perigoso. Você tem um **sensor** que detecta a **distância** do asteroide mais próximo.
+
+## Atividade 3: Batalha Espacial Intergaláctica com for e while
+Você está no **comando de uma nave espacial** em uma batalha intergaláctica.
+Você tem um **número limitado de mísseis** e precisa usá-los estrategicamente para
+destruir naves inimigas
 
 ---
 
@@ -59,6 +64,28 @@ distância do asteroide mais próximo for menor que a distância segura.
 4. Se o loop terminar sem ser interrompido por break, imprima uma mensagem de
 "Navegação concluída com segurança!".
 
+## Atividade 3: Batalha Espacial Intergaláctica com for e while
+1. Defina o número inicial de mísseis (um número inteiro positivo).
+2. Crie uma lista com os nomes de pelo menos 3 naves inimigas.
+3. Utilize um loop while para simular a batalha. O loop deve continuar enquanto você
+tiver mísseis E houver naves inimigas na lista.
+4. Dentro do loop:
+○ Imprima o número de mísseis restantes e a lista de naves inimigas.
+○ Solicite ao usuário que escolha qual nave inimiga atacar (usando o índice da
+lista).
+○ Implemente tratamento de erros para garantir que o usuário digite um índice
+válido.
+○ Se o usuário digitar um índice inválido, exiba uma mensagem de erro e
+continue para a próxima iteração do loop usando continue.
+○ Se o usuário digitar um índice válido:
+■ Remova a nave inimiga da lista.
+■ Diminua o número de mísseis em 1.
+■ Imprima uma mensagem informando qual nave foi destruída.
+○ Se o número de mísseis chegar a zero, imprima uma mensagem de "Sem
+mísseis! Retirada estratégica!".
+○ Se todas as naves inimigas forem destruídas, imprima uma mensagem de
+"Vitória! Todas as naves inimigas foram destruídas!".
+
 ---
 
 ## 📚 Aprendizados
@@ -99,11 +126,16 @@ dotnet run --project AtividadeUnidade3
 Siga as instruções no terminal para inserir as mensagens codificadas.
 O programa exibirá a versão decifrada automaticamente.
 
-### 5. **Execute o código Python
+### 5. **Execute o código Python**
 Se desejar rodar a simulação espacial (Atividade2)
 ```bash
 python atividade2.py
 ```
+ou
+```bash
+python atividade3.py
+```
+
 ---
 
 ## 👥 Autores
